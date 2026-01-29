@@ -1,5 +1,5 @@
 # echo-generator
-This MATLAB project generates an echo effect for an audio signal. It works as follows:
+This MATLAB function generates an echo effect for an audio signal. It works as follows:
 Converts the desired echo delay from seconds to samples.
 Creates a delayed copy of the original audio signal using zero-padding.
 Scales the delayed signal by a specified amplitude.
